@@ -5,8 +5,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @RestController
 public class devopscontroller {
-    @GetMapping("/hellodevops")
+    @GetMapping("/assesstestdevops")
     public String getNames() {
-        return ( "Welcome to Dockers and K8S, Jenkins ");
+        return ( " Git Jenkins Docker Repo Simplilearn_PGPDO ");
     }
 }
