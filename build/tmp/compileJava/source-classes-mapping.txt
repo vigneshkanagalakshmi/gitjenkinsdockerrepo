@@ -1,2 +1,4 @@
 com/spring/assessment/gitjenkinsdockerrepo/GitjenkinsdockerrepoApplication.java
  com.spring.assessment.gitjenkinsdockerrepo.GitjenkinsdockerrepoApplication
+com/spring/assessment/gitjenkinsdockerrepo/controller/devopscontroller.java
+ com.spring.assessment.gitjenkinsdockerrepo.controller.devopscontroller
