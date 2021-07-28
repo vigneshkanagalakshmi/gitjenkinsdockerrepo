@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class devopscontroller {
     @GetMapping("/assesstestdevops")
     public String getNames() {
-        return ( " Git Jenkins Docker Repo Simplilearn_PGPDO ");
+        return ( " Git Jenkins Docker Repo Simplilearn_PGPDO Cohort June 2021 ");
     }
 }
