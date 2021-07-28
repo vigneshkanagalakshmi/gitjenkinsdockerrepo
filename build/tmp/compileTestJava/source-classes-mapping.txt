@@ -1,0 +1,2 @@
+com/spring/assessment/gitjenkinsdockerrepo/GitjenkinsdockerrepoApplicationTests.java
+ com.spring.assessment.gitjenkinsdockerrepo.GitjenkinsdockerrepoApplicationTests
